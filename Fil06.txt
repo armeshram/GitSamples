@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 File06 Revert
 
+=======
+Revert Changes Sample File06
+>>>>>>> parent of c16c5b0 (Revert "Commit File06")
